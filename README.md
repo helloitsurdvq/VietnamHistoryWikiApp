@@ -20,7 +20,7 @@
 1. Press the **Fork** button (top right the page) to save copy of this project on your account.
 2. Download the repository files (project) from the download section or clone this project to your local machine by typing in the bash the following command:
 
-       git clone https://github.com/ngobach26/History.git
+       git clone https://github.com/helloitsurdvq/VietnamHistoryWikiApp.git
 3. Run the application in the main Class [App.java](/src/main/java/main/App.java).
 ### Data collection 
 In order to collect the data from wesites, please go to [Crawler.java](/src/main/java/crawler/Crawler.java) file, then run the main class 
